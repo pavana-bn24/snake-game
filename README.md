@@ -2,8 +2,6 @@
 
 A classic Snake game built with HTML, CSS, and JavaScript.
 
-![Snake Game Screenshot](screenshot.png) <!-- Add a screenshot later if you want -->
-
 ## Features
 - Classic snake gameplay
 - Score tracking
